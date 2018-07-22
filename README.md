@@ -1,2 +1,2 @@
 # MvvmDemo
-Mvvm retrofit moshi viewmodel 
+Kotlin Mvvm retrofit moshi viewmodel 
